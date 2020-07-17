@@ -1,0 +1,47 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-07-09T09:08:07</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.2.7.0.0</property>
+    <property name="modified">2018-08-28T14:59:24</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="HTML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="19802d" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JAVA_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="158808" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="158808" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="398000" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="2ac311" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JSP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="158808" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

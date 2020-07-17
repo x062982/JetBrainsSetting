@@ -1,0 +1,9 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="[Developer{id=1, name='小明'}, Developer{id=3, name='小明'}, Developer{id=7, name='小明'}, Developer{id=2, name='小明'}, Developer{id=2, name='小白'}, Developer{id=2, name='小明'}]" />
+      </list>
+    </option>
+  </component>
+</application>

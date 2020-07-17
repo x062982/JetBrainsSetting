@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="报表" />
       <item value="优点" />
       <item value="LIQUOR" />
       <item value="EVALUATED" />
@@ -50,12 +51,11 @@
       <item value="manager" />
       <item value="描述" />
       <item value="archiver error. Connect internal only, until freed." />
-      <item value="convert to" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="46" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ITALIAN" value="2" />

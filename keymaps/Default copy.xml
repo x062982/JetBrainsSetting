@@ -1,0 +1,18 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$ChooseTranslatorAction">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="Editor ChooseTranslatorAction">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+</keymap>

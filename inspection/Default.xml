@@ -1,0 +1,6 @@
+<profile version="1.0">
+  <option name="myName" value="Default" />
+  <inspection_tool class="Duplicates" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <GlobalSettings restrictedDuplicateScope="EVERYWHERE" excludeTestDuplicates="true" />
+  </inspection_tool>
+</profile>

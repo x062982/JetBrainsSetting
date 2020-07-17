@@ -3,9 +3,68 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
+          <option name="url" value="http://gitlab.development/ironsmith/sitir-common-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ant.smithy.test.crm.sitejiu.net/ironsmith/sitir-common-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ant.smithy.test.crm.sitejiu.net/ironsmith/sitir-common-git-base" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ant.smithy.test.crm.sitejiu.net/ironsmith/sitir-common-base" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ant.smithy.test.crm.sitejiu.net/ironsmith/sitir-config-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ant.smithy.test.crm.sitejiu.net/ironsmith/sitir-config-repo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ant.smithy.test.crm.sitejiu.net/ironsmith/sitir-common-account-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ant.smithy.test.crm.sitejiu.net/ironsmith/sitir-common-account-base" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ant.smithy.test.crm.sitejiu.net/ironsmith/sitir-gateway-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ant.smithy.test.crm.sitejiu.net/ironsmith/sitir-auth-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://gitlab.ant.smithy.test.crm.sitejiu.net" />
           <option name="userName" value="shaneZ" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:x062982/microcloud.com.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ant.smithy.test.crm.sitejiu.net/ironsmith/sitir-sommelier-base" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="F:\MyProjects\sitir\sitir-sommelier" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
       </list>
     </option>
   </component>

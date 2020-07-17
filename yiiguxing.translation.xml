@@ -1,0 +1,68 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="优点" />
+      <item value="LIQUOR" />
+      <item value="EVALUATED" />
+      <item value="not rate" />
+      <item value="未品评" />
+      <item value="Evaluate" />
+      <item value="品评" />
+      <item value="launch" />
+      <item value="破损" />
+      <item value="成品" />
+      <item value="登记" />
+      <item value="review" />
+      <item value="Fetching" />
+      <item value="further" />
+      <item value="sommelier" />
+      <item value="味道" />
+      <item value="香" />
+      <item value="香味" />
+      <item value="sorce" />
+      <item value="record" />
+      <item value="initiate" />
+      <item value="发起" />
+      <item value="标准" />
+      <item value="依据" />
+      <item value="生产日期" />
+      <item value="检测" />
+      <item value="round" />
+      <item value="轮数" />
+      <item value="轮次" />
+      <item value="剩余时间" />
+      <item value="剩余" />
+      <item value="revirew" />
+      <item value="net.sitir.revirew" />
+      <item value="我的" />
+      <item value="mine" />
+      <item value="Suppress Warnings" />
+      <item value="condition" />
+      <item value="resolve Argument" />
+      <item value="驼峰" />
+      <item value="schema" />
+      <item value="Converters" />
+      <item value="slf 4 j" />
+      <item value="同步" />
+      <item value="自建" />
+      <item value="constant" />
+      <item value="manage" />
+      <item value="manager" />
+      <item value="描述" />
+      <item value="archiver error. Connect internal only, until freed." />
+      <item value="convert to" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="45" />
+        <entry key="ICELANDIC" value="1" />
+        <entry key="FRENCH" value="2" />
+        <entry key="ITALIAN" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

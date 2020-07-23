@@ -62,9 +62,13 @@
           <option name="url" value="http://gitlab.ant.smithy.test.crm.sitejiu.net/shaneZ/sitir-job-consume" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ant.smithy.test.crm.sitejiu.net/ironsmith/sitir-sommelier-web" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\MyProjects" />
+    <option name="cloneParentDir" value="E:\MyProjects\sitir\sitir-sommelier" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">

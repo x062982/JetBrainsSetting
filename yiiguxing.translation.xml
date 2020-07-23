@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="获取" />
       <item value="case" />
       <item value="首" />
       <item value="T" />
@@ -50,12 +51,11 @@
       <item value="我的" />
       <item value="mine" />
       <item value="Suppress Warnings" />
-      <item value="condition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ITALIAN" value="2" />

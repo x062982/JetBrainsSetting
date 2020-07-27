@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="effective" />
+      <item value="生效" />
+      <item value="EVALUATED" />
+      <item value="SAVED" />
+      <item value="保存" />
+      <item value="结束" />
       <item value="full fight" />
       <item value="fullfight" />
       <item value="全拼" />
@@ -26,7 +32,6 @@
       <item value="报表" />
       <item value="优点" />
       <item value="LIQUOR" />
-      <item value="EVALUATED" />
       <item value="not rate" />
       <item value="未品评" />
       <item value="Evaluate" />
@@ -46,16 +51,11 @@
       <item value="record" />
       <item value="initiate" />
       <item value="发起" />
-      <item value="标准" />
-      <item value="依据" />
-      <item value="生产日期" />
-      <item value="检测" />
-      <item value="round" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="NORWEGIAN" value="1" />

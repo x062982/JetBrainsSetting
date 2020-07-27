@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="顺序" />
       <item value="generate" />
       <item value="生成" />
       <item value="BREAK" />
@@ -50,11 +51,10 @@
       <item value="轮次" />
       <item value="剩余时间" />
       <item value="剩余" />
-      <item value="revirew" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
+        <entry key="CHINESE" value="60" />
         <entry key="ENGLISH" value="60" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

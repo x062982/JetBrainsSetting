@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="full fight" />
+      <item value="fullfight" />
+      <item value="全拼" />
       <item value="简码" />
       <item value="顺序" />
       <item value="generate" />
@@ -48,16 +51,14 @@
       <item value="生产日期" />
       <item value="检测" />
       <item value="round" />
-      <item value="轮数" />
-      <item value="轮次" />
-      <item value="剩余时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
     </option>

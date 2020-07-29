@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="品评" />
+      <item value="已品评" />
       <item value="Represents a predicate (boolean-valued function) of two arguments. This is * the two-arity specialization" />
       <item value="distribution" />
       <item value="effective" />
@@ -37,7 +39,6 @@
       <item value="not rate" />
       <item value="未品评" />
       <item value="Evaluate" />
-      <item value="品评" />
       <item value="launch" />
       <item value="破损" />
       <item value="成品" />
@@ -50,12 +51,11 @@
       <item value="香" />
       <item value="香味" />
       <item value="sorce" />
-      <item value="record" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="71" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="NORWEGIAN" value="1" />

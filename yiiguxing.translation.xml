@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mixed" />
+      <item value="mix" />
+      <item value="交集" />
       <item value="progress" />
       <item value="进度" />
       <item value="effecte" />
@@ -48,14 +51,11 @@
       <item value="优点" />
       <item value="LIQUOR" />
       <item value="not rate" />
-      <item value="未品评" />
-      <item value="Evaluate" />
-      <item value="launch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="NORWEGIAN" value="1" />

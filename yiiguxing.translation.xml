@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="point" />
+      <item value="分值" />
       <item value="SINGLE" />
       <item value="A Verage" />
       <item value="credentials" />
@@ -49,13 +51,11 @@
       <item value="Argument" />
       <item value="Illegal Argument Exception" />
       <item value="二级" />
-      <item value="一级" />
-      <item value="第一级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="NORWEGIAN" value="1" />

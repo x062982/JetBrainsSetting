@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wednesday" />
+      <item value="Wensday" />
+      <item value="Saturday" />
+      <item value="周六" />
+      <item value="Starday" />
       <item value="overlay" />
       <item value="point" />
       <item value="分值" />
@@ -46,16 +51,11 @@
       <item value="BREAK" />
       <item value="comment" />
       <item value="获取" />
-      <item value="case" />
-      <item value="首" />
-      <item value="T" />
-      <item value="Argument" />
-      <item value="Illegal Argument Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="NORWEGIAN" value="1" />

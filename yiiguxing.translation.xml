@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generate" />
+      <item value="产生" />
+      <item value="certificate" />
+      <item value="出证" />
       <item value="conclusion" />
       <item value="结论" />
       <item value="DETERMINE" />
@@ -47,15 +51,11 @@
       <item value="EVALUATING" />
       <item value="不合格" />
       <item value="qualified" />
-      <item value="品评" />
-      <item value="已品评" />
-      <item value="Represents a predicate (boolean-valued function) of two arguments. This is * the two-arity specialization" />
-      <item value="distribution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="NORWEGIAN" value="1" />

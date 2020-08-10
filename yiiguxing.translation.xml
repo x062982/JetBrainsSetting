@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DETERMINE" />
+      <item value="determine" />
+      <item value="incompatible" />
+      <item value="imcompatible" />
+      <item value="compatible" />
+      <item value="不符合" />
+      <item value="符合" />
+      <item value="QUALIFIED" />
+      <item value="合格" />
+      <item value="判定" />
       <item value="报表" />
       <item value="报告" />
       <item value="色泽" />
@@ -35,27 +45,17 @@
       <item value="EVALUATING" />
       <item value="不合格" />
       <item value="qualified" />
-      <item value="合格" />
       <item value="品评" />
       <item value="已品评" />
       <item value="Represents a predicate (boolean-valued function) of two arguments. This is * the two-arity specialization" />
       <item value="distribution" />
       <item value="effective" />
       <item value="EVALUATED" />
-      <item value="SAVED" />
-      <item value="保存" />
-      <item value="结束" />
-      <item value="full fight" />
-      <item value="fullfight" />
-      <item value="全拼" />
-      <item value="简码" />
-      <item value="顺序" />
-      <item value="generate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="NORWEGIAN" value="1" />

@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Vertical" />
       <item value="patriarch" />
       <item value="Returns a composed {@code Consumer} that performs, in sequence, this * operation followed by the {@code after} operation. If performing either * operation throws an exception, it is relayed to the caller of the * composed operation. If performing this operation throws an exception, * the {@code after} operation will not be performed." />
       <item value="canvas" />
-      <item value="Vertical" />
       <item value="rebase" />
       <item value="foobar" />
       <item value="Some problems were encountered while building the effective model for com.shanezhou.springcloud:cloud-gateway-gateway9527:jar:1.0-SNAPSHOT 'build.plugins.plugin.version' for org.springframework.boot:spring-boot-maven-plugin is missing. @ com.shanezhou.springcloud:microcloud:1.0-SNAPSHOT, E:\MyProjects\sitir\microcloud\pom.xml, line 113, column 12 It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

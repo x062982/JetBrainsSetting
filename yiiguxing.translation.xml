@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="流" />
+      <item value="输出" />
       <item value="separator" />
       <item value="Vertical" />
       <item value="patriarch" />
@@ -49,13 +51,11 @@
       <item value="credentials" />
       <item value="相差" />
       <item value="progress" />
-      <item value="process" />
-      <item value="rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="132" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

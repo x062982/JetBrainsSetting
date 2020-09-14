@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="process" />
+      <item value="分母" />
+      <item value="分子" />
       <item value="面板" />
       <item value="流" />
       <item value="输出" />
@@ -48,14 +51,11 @@
       <item value="point" />
       <item value="分值" />
       <item value="SINGLE" />
-      <item value="A Verage" />
-      <item value="credentials" />
-      <item value="相差" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

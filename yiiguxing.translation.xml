@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to execute goal" />
       <item value="site" />
       <item value="endpoint" />
       <item value="标志" />
@@ -50,12 +51,11 @@
       <item value="Saturday" />
       <item value="周六" />
       <item value="Starday" />
-      <item value="overlay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="138" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="139" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

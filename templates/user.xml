@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="bootmain" value="public static void main(String[] args) {&#10;    SpringApplication.run(, args);&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="bootmain" value="public static void main(String[] args) {&#10;    SpringApplication.run(, args);&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

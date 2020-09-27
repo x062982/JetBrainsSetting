@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ambiguous" />
+      <item value="mapped." />
       <item value="login" />
       <item value="receive Message" />
       <item value="shortcomming" />
@@ -49,13 +51,11 @@
       <item value="符合" />
       <item value="QUALIFIED" />
       <item value="合格" />
-      <item value="判定" />
-      <item value="报表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

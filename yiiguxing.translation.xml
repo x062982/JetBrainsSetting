@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exposing" />
       <item value="自定义" />
       <item value="Ambiguous" />
       <item value="mapped." />
@@ -50,12 +51,11 @@
       <item value="compatible" />
       <item value="不符合" />
       <item value="符合" />
-      <item value="QUALIFIED" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

@@ -90,9 +90,13 @@
           <option name="url" value="git@gitlab.development:ironsmith/sitir-sommelier-validate-code.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/huanzi-qch/base-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\MyProjects\sitir" />
+    <option name="cloneParentDir" value="E:\" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">

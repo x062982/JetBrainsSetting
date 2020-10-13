@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remote hung up unexpectedly" />
+      <item value="unexpectedly" />
+      <item value="hung up" />
       <item value="密码" />
       <item value="Exposing" />
       <item value="自定义" />
@@ -48,14 +51,11 @@
       <item value="DETERMINE" />
       <item value="determine" />
       <item value="incompatible" />
-      <item value="imcompatible" />
-      <item value="compatible" />
-      <item value="不符合" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

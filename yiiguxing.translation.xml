@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="OPERATION FAILED" />
+      <item value="OPERATE FAILED" />
+      <item value="OPERATER FAILED" />
+      <item value="OPERATOR FAILED" />
+      <item value="OPERATOR" />
       <item value="REPEATED" />
       <item value="NO REPEATED" />
       <item value="NO REPEAT" />
@@ -46,16 +51,11 @@
       <item value="分子" />
       <item value="面板" />
       <item value="流" />
-      <item value="输出" />
-      <item value="separator" />
-      <item value="Vertical" />
-      <item value="patriarch" />
-      <item value="Returns a composed {@code Consumer} that performs, in sequence, this * operation followed by the {@code after} operation. If performing either * operation throws an exception, it is relayed to the caller of the * composed operation. If performing this operation throws an exception, * the {@code after} operation will not be performed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="173" />
+        <entry key="ENGLISH" value="174" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

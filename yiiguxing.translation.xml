@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deprecated" />
       <item value="加班汇总表" />
       <item value="加班" />
       <item value="总文件" />
@@ -50,12 +51,11 @@
       <item value="Account" />
       <item value="练习" />
       <item value="Transfer failed" />
-      <item value="Failed to execute goal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

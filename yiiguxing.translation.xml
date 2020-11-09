@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="加班汇总表" />
+      <item value="加班" />
       <item value="总文件" />
       <item value="需要合并的文件" />
       <item value="merge" />
@@ -49,13 +51,11 @@
       <item value="练习" />
       <item value="Transfer failed" />
       <item value="Failed to execute goal" />
-      <item value="site" />
-      <item value="endpoint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="179" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

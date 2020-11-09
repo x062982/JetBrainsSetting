@@ -1,7 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="总文件" />
+      <item value="需要合并的文件" />
+      <item value="merge" />
       <item value="合并" />
+      <item value="meger" />
+      <item value="meger File" />
       <item value="OPERATION FAILED" />
       <item value="OPERATE FAILED" />
       <item value="OPERATER FAILED" />
@@ -46,20 +51,18 @@
       <item value="Failed to execute goal" />
       <item value="site" />
       <item value="endpoint" />
-      <item value="标志" />
-      <item value="process" />
-      <item value="分母" />
-      <item value="分子" />
-      <item value="面板" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="177" />
+        <entry key="ENGLISH" value="177" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />
+        <entry key="KURDISH" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />

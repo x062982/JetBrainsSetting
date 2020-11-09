@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="合并" />
       <item value="OPERATION FAILED" />
       <item value="OPERATE FAILED" />
       <item value="OPERATER FAILED" />
@@ -50,11 +51,10 @@
       <item value="分母" />
       <item value="分子" />
       <item value="面板" />
-      <item value="流" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
+        <entry key="CHINESE" value="174" />
         <entry key="ENGLISH" value="174" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />

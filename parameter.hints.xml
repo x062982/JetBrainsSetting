@@ -42,6 +42,7 @@
         <removed pattern="(min*, max*)" />
       </blacklist>
       <blacklist language="Java">
+        <added pattern="java.util.List.get(index)" />
         <removed pattern="(begin*, end*)" />
         <removed pattern="(start*, end*)" />
         <removed pattern="(first*, last*)" />

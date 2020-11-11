@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解析" />
       <item value="次数" />
       <item value="calc" />
       <item value="计算" />
@@ -50,12 +51,11 @@
       <item value="追溯" />
       <item value="追朔" />
       <item value="audit" />
-      <item value="性别" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="195" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="196" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

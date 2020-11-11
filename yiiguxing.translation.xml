@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="次数" />
+      <item value="calc" />
+      <item value="计算" />
+      <item value="cacl" />
       <item value="先序遍历" />
       <item value="倒序" />
       <item value="倒叙" />
@@ -47,15 +51,11 @@
       <item value="追朔" />
       <item value="audit" />
       <item value="性别" />
-      <item value="remote hung up unexpectedly" />
-      <item value="unexpectedly" />
-      <item value="hung up" />
-      <item value="密码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="195" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

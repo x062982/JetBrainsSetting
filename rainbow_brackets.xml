@@ -1,6 +1,8 @@
 <application>
   <component name="RainbowSettings">
-    <option name="useColorGenerator" value="true" />
+    <option name="applyColorsOfRoundForAllBrackets" value="true" />
+    <option name="cycleCountOnAllBrackets" value="true" />
+    <option name="numberOfColors" value="8" />
     <option name="version" value="6.11" />
   </component>
 </application>

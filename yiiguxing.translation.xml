@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This element is used to specify cell fill information for pattern and solid color cell fills. For solid cell fills (no pattern), * foreground color is used is used. For cell fills with patterns specified, then the cell fill color is specified by the background color element. *" />
       <item value="ORANGE" />
       <item value="BLUE GREY" />
       <item value="GREY_40_PERCENT" />
@@ -50,12 +51,11 @@
       <item value="REPEATED" />
       <item value="NO REPEATED" />
       <item value="NO REPEAT" />
-      <item value="NOT REPEAT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="CHINESE" value="211" />
+        <entry key="ENGLISH" value="212" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

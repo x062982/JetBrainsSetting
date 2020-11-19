@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compare" />
+      <item value="比较" />
       <item value="This exception is thrown when the length of data provided to a block * cipher is incorrect, i.e., does not match the block size of the cipher." />
       <item value="If a value is present, performs the given action with the value, * otherwise performs the given empty-based action." />
       <item value="This element is used to specify cell fill information for pattern and solid color cell fills. For solid cell fills (no pattern), * foreground color is used is used. For cell fills with patterns specified, then the cell fill color is specified by the background color element. *" />
@@ -49,13 +51,11 @@
       <item value="OPERATE FAILED" />
       <item value="OPERATER FAILED" />
       <item value="OPERATOR FAILED" />
-      <item value="OPERATOR" />
-      <item value="REPEATED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="214" />
+        <entry key="ENGLISH" value="215" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

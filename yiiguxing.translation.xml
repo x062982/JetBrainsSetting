@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stride" />
+      <item value="步长" />
+      <item value="希尔排序" />
+      <item value="shell" />
       <item value="compare" />
       <item value="比较" />
       <item value="This exception is thrown when the length of data provided to a block * cipher is incorrect, i.e., does not match the block size of the cipher." />
@@ -20,7 +24,6 @@
       <item value="BLACK 1" />
       <item value="radix" />
       <item value="the radix to be used while parsing {@code s}. * @return the integer represented by the string argument in the * specified radix." />
-      <item value="步长" />
       <item value="解析" />
       <item value="次数" />
       <item value="calc" />
@@ -48,14 +51,11 @@
       <item value="meger" />
       <item value="meger File" />
       <item value="OPERATION FAILED" />
-      <item value="OPERATE FAILED" />
-      <item value="OPERATER FAILED" />
-      <item value="OPERATOR FAILED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

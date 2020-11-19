@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="归并" />
       <item value="stride" />
       <item value="步长" />
       <item value="希尔排序" />
@@ -50,11 +51,10 @@
       <item value="合并" />
       <item value="meger" />
       <item value="meger File" />
-      <item value="OPERATION FAILED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
+        <entry key="CHINESE" value="218" />
         <entry key="ENGLISH" value="218" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />

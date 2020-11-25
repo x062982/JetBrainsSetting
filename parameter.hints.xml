@@ -43,6 +43,7 @@
       </blacklist>
       <blacklist language="Java">
         <added pattern="java.util.List.get(index)" />
+        <added pattern="com.shanezhou.pro.algorithm.Sort.method03(s)" />
         <removed pattern="(begin*, end*)" />
         <removed pattern="(start*, end*)" />
         <removed pattern="(first*, last*)" />

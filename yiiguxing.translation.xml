@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="差值" />
       <item value="备忘录" />
       <item value="前缀" />
       <item value="后缀" />
@@ -50,12 +51,11 @@
       <item value="加班" />
       <item value="总文件" />
       <item value="需要合并的文件" />
-      <item value="merge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="223" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

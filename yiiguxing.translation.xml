@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="判断" />
       <item value="// We don't want to accidentally issue a token, and we have no way to reconstruct the refresh token" />
       <item value="h-807 Approvals (if any) should only be removed when Refresh Tokens are removed (or expired)" />
       <item value="LOGIN LIMITED TIME" />
@@ -50,12 +51,11 @@
       <item value="radix" />
       <item value="the radix to be used while parsing {@code s}. * @return the integer represented by the string argument in the * specified radix." />
       <item value="解析" />
-      <item value="次数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="244" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />

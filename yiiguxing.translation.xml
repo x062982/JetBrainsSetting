@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handler Package" />
       <item value="Additional" />
       <item value="dditional" />
       <item value="Addictional" />
@@ -50,14 +51,14 @@
       <item value="PLUM" />
       <item value="INDIGO" />
       <item value="GREY_80_PERCENT" />
-      <item value="BLACK 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
+        <entry key="CHINESE" value="247" />
         <entry key="ENGLISH" value="247" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KURDISH" value="1" />
         <entry key="LATVIAN" value="1" />

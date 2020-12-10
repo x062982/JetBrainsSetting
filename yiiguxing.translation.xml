@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resolve Token" />
+      <item value="resolve" />
       <item value="handler Package" />
       <item value="Additional" />
       <item value="dditional" />
@@ -49,8 +51,6 @@
       <item value="OLIVE GREEN" />
       <item value="BROWN" />
       <item value="PLUM" />
-      <item value="INDIGO" />
-      <item value="GREY_80_PERCENT" />
     </histories>
     <option name="languageScores">
       <map>

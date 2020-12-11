@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="culprit" />
+      <item value="罪魁祸首" />
       <item value="resolve Token" />
       <item value="resolve" />
       <item value="handler Package" />
@@ -49,13 +51,11 @@
       <item value="SEA GREEN" />
       <item value="DARK GREEN" />
       <item value="OLIVE GREEN" />
-      <item value="BROWN" />
-      <item value="PLUM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="249" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />

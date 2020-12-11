@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="存在" />
       <item value="culprit" />
       <item value="罪魁祸首" />
       <item value="resolve Token" />
@@ -50,11 +51,10 @@
       <item value="DARK TEAL" />
       <item value="SEA GREEN" />
       <item value="DARK GREEN" />
-      <item value="OLIVE GREEN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
+        <entry key="CHINESE" value="249" />
         <entry key="ENGLISH" value="249" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />

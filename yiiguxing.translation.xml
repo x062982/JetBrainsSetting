@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Logger" />
       <item value="存在" />
       <item value="culprit" />
       <item value="罪魁祸首" />
@@ -50,7 +51,6 @@
       <item value="GREY_40_PERCENT" />
       <item value="DARK TEAL" />
       <item value="SEA GREEN" />
-      <item value="DARK GREEN" />
     </histories>
     <option name="languageScores">
       <map>
@@ -58,7 +58,7 @@
         <entry key="ENGLISH" value="249" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
-        <entry key="DANISH" value="1" />
+        <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="KURDISH" value="1" />
         <entry key="LATVIAN" value="1" />

@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="名称" />
+      <item value="功能点" />
+      <item value="features" />
+      <item value="功能" />
       <item value="operate" />
       <item value="操作" />
       <item value="operator" />
@@ -47,15 +51,11 @@
       <item value="compare" />
       <item value="比较" />
       <item value="This exception is thrown when the length of data provided to a block * cipher is incorrect, i.e., does not match the block size of the cipher." />
-      <item value="If a value is present, performs the given action with the value, * otherwise performs the given empty-based action." />
-      <item value="This element is used to specify cell fill information for pattern and solid color cell fills. For solid cell fills (no pattern), * foreground color is used is used. For cell fills with patterns specified, then the cell fill color is specified by the background color element. *" />
-      <item value="ORANGE" />
-      <item value="BLUE GREY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="254" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />

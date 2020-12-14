@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consume" />
+      <item value="耗时" />
+      <item value="explanation" />
       <item value="名称" />
       <item value="功能点" />
       <item value="features" />
@@ -48,14 +51,11 @@
       <item value="stride" />
       <item value="希尔排序" />
       <item value="shell" />
-      <item value="compare" />
-      <item value="比较" />
-      <item value="This exception is thrown when the length of data provided to a block * cipher is incorrect, i.e., does not match the block size of the cipher." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="256" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />

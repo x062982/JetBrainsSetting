@@ -5,6 +5,7 @@
       <mapping ext="dmp" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="bpmn20" type="XML" />
     </extensionMap>
   </component>
 </application>

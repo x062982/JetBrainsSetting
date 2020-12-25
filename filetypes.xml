@@ -6,6 +6,7 @@
       <mapping ext="cert" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="bpmn20" type="XML" />
+      <mapping pattern="bootstrap" type="spring.binders" />
     </extensionMap>
   </component>
 </application>

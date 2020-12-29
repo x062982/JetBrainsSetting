@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gambling" />
+      <item value="gamblinig" />
+      <item value="gb" />
+      <item value="赌博" />
       <item value="category" />
       <item value="tenant Id" />
       <item value="请假流程" />
@@ -47,15 +51,11 @@
       <item value="dditional" />
       <item value="Addictional" />
       <item value="判断" />
-      <item value="// We don't want to accidentally issue a token, and we have no way to reconstruct the refresh token" />
-      <item value="h-807 Approvals (if any) should only be removed when Refresh Tokens are removed (or expired)" />
-      <item value="LOGIN LIMITED TIME" />
-      <item value="限制时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="274" />
-        <entry key="ENGLISH" value="275" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />

@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="蓝条" />
+      <item value="女" />
+      <item value="男" />
+      <item value="物理" />
+      <item value="远程" />
       <item value="条件" />
       <item value="预测" />
       <item value="答案" />
@@ -46,16 +51,11 @@
       <item value="operator" />
       <item value="Logger" />
       <item value="存在" />
-      <item value="culprit" />
-      <item value="罪魁祸首" />
-      <item value="resolve Token" />
-      <item value="resolve" />
-      <item value="handler Package" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="281" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="287" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />

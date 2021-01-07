@@ -5,6 +5,9 @@
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="AnyRule">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="Editor ChooseTranslatorAction">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>

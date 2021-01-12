@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="下一个" />
       <item value="不活跃" />
       <item value="children" />
       <item value="available" />
@@ -50,12 +51,11 @@
       <item value="listener does not currently know of SID given in connect descriptor" />
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="NDI location of the datasource. Class, url, username and password are ignored when * set." />
-      <item value="进位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="315" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />

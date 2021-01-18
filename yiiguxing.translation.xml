@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rounding according to the context settings." />
+      <item value="the context to use." />
+      <item value="The number of decimal digits in this BigDecimal, or 0 if the * number of digits are not known (lookaside information). If * nonzero, the value is guaranteed correct. Use the precision() * method to obtain and set the value if it might be 0. This * field is mutable until set nonzero." />
+      <item value="precision" />
       <item value="Park" />
       <item value="泊车" />
       <item value="停用" />
@@ -47,15 +51,11 @@
       <item value="gamblinig" />
       <item value="gb" />
       <item value="赌博" />
-      <item value="category" />
-      <item value="tenant Id" />
-      <item value="请假流程" />
-      <item value="请假单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="318" />
-        <entry key="ENGLISH" value="319" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="323" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />

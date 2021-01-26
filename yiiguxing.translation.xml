@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="degree" />
+      <item value="度数" />
       <item value="The method getAnnotation(Class) belongs to the raw type Class. References to generic type Class&lt;T&gt; should be parameterized" />
       <item value="get Content Type" />
       <item value="priority" />
@@ -49,13 +51,11 @@
       <item value="女" />
       <item value="男" />
       <item value="物理" />
-      <item value="远程" />
-      <item value="条件" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="328" />
+        <entry key="ENGLISH" value="329" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />

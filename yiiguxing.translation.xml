@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SCALE" />
+      <item value="PRECISION" />
       <item value="present" />
       <item value="second" />
       <item value="third" />
@@ -49,13 +51,11 @@
       <item value="Authoration" />
       <item value="切换" />
       <item value="initial" />
-      <item value="启用" />
-      <item value="消极" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />

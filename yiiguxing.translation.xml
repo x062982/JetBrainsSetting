@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="present" />
       <item value="second" />
       <item value="third" />
       <item value="catalog" />
@@ -50,12 +51,11 @@
       <item value="initial" />
       <item value="启用" />
       <item value="消极" />
-      <item value="ACTIVE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="334" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="CHINESE" value="335" />
+        <entry key="ENGLISH" value="336" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />

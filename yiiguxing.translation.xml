@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="material" />
+      <item value="材料" />
+      <item value="metrical" />
       <item value="SIBLINGS" />
       <item value="SCALE" />
       <item value="PRECISION" />
@@ -48,14 +51,11 @@
       <item value="allow Multiple" />
       <item value="Handler" />
       <item value="Interceptor" />
-      <item value="operations" />
-      <item value="Authoration" />
-      <item value="切换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="341" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="积" />
       <item value="Multi" />
       <item value="For parallel stream pipelines, the action may be called at * whatever time and in whatever thread the element is made available by the * upstream operation. If the action modifies shared state, * it is responsible for providing the required synchronization." />
       <item value="可操作性" />
@@ -50,11 +51,10 @@
       <item value="可用" />
       <item value="是否可用" />
       <item value="display Disabled" />
-      <item value="显示禁用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
+        <entry key="CHINESE" value="349" />
         <entry key="ENGLISH" value="349" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />

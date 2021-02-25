@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="OpenJDK 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended" />
+      <item value="step" />
+      <item value="步长" />
       <item value="标准" />
       <item value="增加" />
       <item value="生气" />
@@ -48,14 +51,11 @@
       <item value="The number of decimal digits in this BigDecimal, or 0 if the * number of digits are not known (lookaside information). If * nonzero, the value is guaranteed correct. Use the precision() * method to obtain and set the value if it might be 0. This * field is mutable until set nonzero." />
       <item value="precision" />
       <item value="Park" />
-      <item value="泊车" />
-      <item value="停用" />
-      <item value="漂泊" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="356" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />

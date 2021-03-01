@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The bin count threshold for untreeifying a (split) bin during a * resize operation. Should be less than TREEIFY_THRESHOLD, and at * most 6 to mesh with shrinkage detection under removal." />
+      <item value="UNTREEIFY THRESHOLD" />
+      <item value="Bins are converted to trees when adding an element to a * bin with at least this many nodes." />
+      <item value="threshold" />
+      <item value="The bin count threshold for using a tree rather than list for a * bin. Bins are converted to trees when adding an element to a * bin with at least this many nodes. The value must be greater * than 2 and should be at least 8 to mesh with assumptions in * tree removal about conversion back to plain bins upon * shrinkage." />
       <item value="除数" />
       <item value="次数" />
       <item value="OpenJDK 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended" />
@@ -46,16 +51,11 @@
       <item value="priority" />
       <item value="whether threads should be marked as" />
       <item value="Returns a {@code BigDecimal} whose value is {@code (this / * divisor)}, and whose scale is as specified. If rounding must * be performed to generate a result with the specified scale, the * specified rounding mode is applied." />
-      <item value="should be used in preference to this legacy method." />
-      <item value="差值" />
-      <item value="rounding according to the context settings." />
-      <item value="the context to use." />
-      <item value="The number of decimal digits in this BigDecimal, or 0 if the * number of digits are not known (lookaside information). If * nonzero, the value is guaranteed correct. Use the precision() * method to obtain and set the value if it might be 0. This * field is mutable until set nonzero." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
-        <entry key="ENGLISH" value="358" />
+        <entry key="CHINESE" value="362" />
+        <entry key="ENGLISH" value="363" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />

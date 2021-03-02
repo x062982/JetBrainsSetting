@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// (The javadoc description is true upon serialization. // Additionally, if the table array has not been allocated, this // field holds the initial array capacity, or zero signifying // DEFAULT_INITIAL_CAPACITY.)" />
       <item value="Dummy value to associate with an Object in the backing Map" />
       <item value="The smallest table capacity for which bins may be treeified. * (Otherwise the table is resized if too many nodes in a bin.) * Should be at least 4 * TREEIFY_THRESHOLD to avoid conflicts * between resizing and treeification thresholds." />
       <item value="MIN TREEIFY CAPACITY" />
@@ -50,12 +51,11 @@
       <item value="导航" />
       <item value="degree" />
       <item value="度数" />
-      <item value="The method getAnnotation(Class) belongs to the raw type Class. References to generic type Class&lt;T&gt; should be parameterized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="369" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />

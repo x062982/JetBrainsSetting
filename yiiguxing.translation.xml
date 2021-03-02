@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dummy value to associate with an Object in the backing Map" />
+      <item value="The smallest table capacity for which bins may be treeified. * (Otherwise the table is resized if too many nodes in a bin.) * Should be at least 4 * TREEIFY_THRESHOLD to avoid conflicts * between resizing and treeification thresholds." />
+      <item value="MIN TREEIFY CAPACITY" />
+      <item value="MAXIMUM CAPACITY" />
       <item value="The bin count threshold for untreeifying a (split) bin during a * resize operation. Should be less than TREEIFY_THRESHOLD, and at * most 6 to mesh with shrinkage detection under removal." />
       <item value="UNTREEIFY THRESHOLD" />
       <item value="Bins are converted to trees when adding an element to a * bin with at least this many nodes." />
@@ -47,15 +51,11 @@
       <item value="degree" />
       <item value="度数" />
       <item value="The method getAnnotation(Class) belongs to the raw type Class. References to generic type Class&lt;T&gt; should be parameterized" />
-      <item value="get Content Type" />
-      <item value="priority" />
-      <item value="whether threads should be marked as" />
-      <item value="Returns a {@code BigDecimal} whose value is {@code (this / * divisor)}, and whose scale is as specified. If rounding must * be performed to generate a result with the specified scale, the * specified rounding mode is applied." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="CHINESE" value="367" />
+        <entry key="ENGLISH" value="368" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />

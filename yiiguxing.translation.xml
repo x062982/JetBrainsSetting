@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A handler for rejected tasks that runs the rejected task * directly in the calling thread of the {@code execute} method, * unless the executor has been shut down, in which case the task * is discarded." />
+      <item value="A handler for rejected tasks that discards the oldest unhandled * request and then retries {@code execute}, unless the executor * is shut down, in which case the task is discarded." />
+      <item value="A handler for rejected tasks that silently discards the * rejected task." />
+      <item value="rejected" />
+      <item value="discards" />
+      <item value="silently" />
       <item value="access Order" />
       <item value="The iteration ordering method for this linked hash map: {@code true} * for access-order, {@code false} for insertion-order." />
       <item value="Callbacks to allow LinkedHashMap post-actions" />
@@ -45,17 +51,11 @@
       <item value="metrical" />
       <item value="SIBLINGS" />
       <item value="SCALE" />
-      <item value="PRECISION" />
-      <item value="present" />
-      <item value="second" />
-      <item value="third" />
-      <item value="catalog" />
-      <item value="catalogue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="382" />
+        <entry key="ENGLISH" value="383" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />

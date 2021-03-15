@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Browser" />
       <item value="protected RefinedAbstraction(Implementor impl) { super(impl); } @Override void Operation() { System.out.println(&quot;扩展抽象化角色&quot;); impl.OperationImpl(); }" />
       <item value="Store" />
       <item value="叫" />
@@ -50,11 +51,10 @@
       <item value="feign" />
       <item value="feign Id" />
       <item value="material" />
-      <item value="材料" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
+        <entry key="CHINESE" value="384" />
         <entry key="ENGLISH" value="384" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />

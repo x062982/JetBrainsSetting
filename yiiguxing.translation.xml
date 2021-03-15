@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="方向" />
+      <item value="Direct" />
       <item value="Upright" />
       <item value="Up Right Phone" />
       <item value="Browser" />
@@ -49,13 +51,11 @@
       <item value="batch" />
       <item value="parameterized" />
       <item value="外键" />
-      <item value="外建" />
-      <item value="feign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="385" />
-        <entry key="ENGLISH" value="386" />
+        <entry key="CHINESE" value="387" />
+        <entry key="ENGLISH" value="387" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
